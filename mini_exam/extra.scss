@@ -1,0 +1,11 @@
+@mixin button(){
+    padding: 15px 20px;
+    color: $button_txt ;
+    text-align: center;
+}
+
+
+
+
+$button_txt: #fff;
+$main_color : #FF9900;
